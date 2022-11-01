@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "call.js",
+  "dependencies": {
+   
+   
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+   
+    "scripts": {
+      "test": "jest",
+      "testwatch":"jest --watchAll"
+    },
+   
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
